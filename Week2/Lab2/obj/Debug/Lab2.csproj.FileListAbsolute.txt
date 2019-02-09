@@ -1,0 +1,7 @@
+C:\Users\Marat\source\repos\Week2\Lab2\bin\Debug\Lab2.exe.config
+C:\Users\Marat\source\repos\Week2\Lab2\bin\Debug\Lab2.exe
+C:\Users\Marat\source\repos\Week2\Lab2\bin\Debug\Lab2.pdb
+C:\Users\Marat\source\repos\Week2\Lab2\obj\Debug\Lab2.csprojAssemblyReference.cache
+C:\Users\Marat\source\repos\Week2\Lab2\obj\Debug\Lab2.csproj.CoreCompileInputs.cache
+C:\Users\Marat\source\repos\Week2\Lab2\obj\Debug\Lab2.exe
+C:\Users\Marat\source\repos\Week2\Lab2\obj\Debug\Lab2.pdb

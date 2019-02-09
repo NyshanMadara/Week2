@@ -1,0 +1,7 @@
+C:\Users\Marat\source\repos\Week2\exercise4\bin\Debug\exercise4.exe.config
+C:\Users\Marat\source\repos\Week2\exercise4\bin\Debug\exercise4.exe
+C:\Users\Marat\source\repos\Week2\exercise4\bin\Debug\exercise4.pdb
+C:\Users\Marat\source\repos\Week2\exercise4\obj\Debug\exercise4.csproj.CoreCompileInputs.cache
+C:\Users\Marat\source\repos\Week2\exercise4\obj\Debug\exercise4.exe
+C:\Users\Marat\source\repos\Week2\exercise4\obj\Debug\exercise4.pdb
+C:\Users\Marat\source\repos\Week2\exercise4\obj\Debug\exercise4.csprojAssemblyReference.cache
